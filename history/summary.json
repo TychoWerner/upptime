@@ -77,19 +77,17 @@
     "icon": "https://favicons.githubusercontent.com/gimmes.net",
     "slug": "gimmes-net",
     "status": "up",
-    "uptime": "9.45%",
-    "uptimeDay": "9.45%",
-    "uptimeWeek": "9.45%",
-    "uptimeMonth": "9.45%",
-    "uptimeYear": "9.45%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 561,
     "timeDay": 561,
     "timeWeek": 561,
     "timeMonth": 561,
     "timeYear": 561,
-    "dailyMinutesDown": {
-      "2022-02-07": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "TychoWerner.nl",
@@ -97,19 +95,17 @@
     "icon": "https://favicons.githubusercontent.com/tychowerner.nl",
     "slug": "tycho-werner-nl",
     "status": "up",
-    "uptime": "8.20%",
-    "uptimeDay": "8.20%",
-    "uptimeWeek": "8.20%",
-    "uptimeMonth": "8.20%",
-    "uptimeYear": "8.20%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 322,
     "timeDay": 322,
     "timeWeek": 322,
     "timeMonth": 322,
     "timeYear": 322,
-    "dailyMinutesDown": {
-      "2022-02-07": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "TostiBroeders.nl",
