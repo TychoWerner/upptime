@@ -15,6 +15,8 @@ sites:
     url: https://gimmes.net
   - name: TychoWerner.nl
     url: https://tychowerner.nl
+  - name: TostiBroeders.nl
+    url: https://tostibroeders.nl
   - name: CeltiCast.com
     url: https://celticast.com
   - name: PartyRegelaar
