@@ -11,6 +11,20 @@ sites:
     url: https://azuracast.tychowerner.nl
   - name: ListMonk
     url: https://listmonk.tychowerner.nl
+  - name: Gimmes.net
+    url: https://gimmes.net
+  - name: TychoWerner.nl
+    url: https://tychowerner.nl
+  - name: CeltiCast.com
+    url: https://celticast.com
+  - name: PartyRegelaar
+    url: http://partyregelaar.nl
+  - name: PartyVerhuur Alphen
+    url: https://www.partyverhuuralphenaandenrijn.nl
+  - name: PartyVerhuur Ter Aar
+    url: https://www.partyverhuurteraar.nl
+  - name: PartyCentrum Parola
+    url: https://partycentrumparola.nl/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
