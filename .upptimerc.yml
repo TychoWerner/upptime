@@ -35,7 +35,7 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** for $OWNER"
+  introTitle: "**Upptime** for " $OWNER
   introMessage: 
   navbar:
     - title: Status
