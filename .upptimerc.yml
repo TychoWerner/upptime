@@ -11,6 +11,8 @@ sites:
     url: https://azuracast.tychowerner.nl
   - name: ListMonk
     url: https://listmonk.tychowerner.nl
+  - name: NewsLetter
+    url: https://newsletter.celtcast.com
   - name: Gimmes.net
     url: https://gimmes.net
   - name: TychoWerner.nl
