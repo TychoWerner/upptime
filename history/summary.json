@@ -4,19 +4,19 @@
     "url": "https://www.celtcast.com",
     "icon": "https://favicons.githubusercontent.com/www.celtcast.com",
     "slug": "celt-cast",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2901,
-    "timeDay": 2417,
-    "timeWeek": 4157,
-    "timeMonth": 2901,
-    "timeYear": 2901,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 3774,
+    "timeDay": 15765,
+    "timeWeek": 6929,
+    "timeMonth": 3774,
+    "timeYear": 3774,
     "dailyMinutesDown": {
-      "2022-02-28": 0
+      "2022-02-28": 7
     }
   },
   {
