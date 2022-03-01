@@ -4,10 +4,10 @@
     "url": "https://www.celtcast.com",
     "icon": "https://favicons.githubusercontent.com/www.celtcast.com",
     "slug": "celt-cast",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3753,
@@ -15,7 +15,9 @@
     "timeWeek": 7049,
     "timeMonth": 3753,
     "timeYear": 3753,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-01": 1
+    }
   },
   {
     "name": "Fantasy-Awards",
