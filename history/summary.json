@@ -4,19 +4,19 @@
     "url": "https://www.celtcast.com",
     "icon": "https://favicons.githubusercontent.com/www.celtcast.com",
     "slug": "celt-cast",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3414,
-    "timeDay": 1708,
-    "timeWeek": 2374,
-    "timeMonth": 3699,
-    "timeYear": 3414,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 3374,
+    "timeDay": 1722,
+    "timeWeek": 2294,
+    "timeMonth": 3641,
+    "timeYear": 3374,
     "dailyMinutesDown": {
-      "2022-03-10": 2
+      "2022-03-10": 5
     }
   },
   {
@@ -78,19 +78,19 @@
     "url": "https://newsletter.celtcast.com",
     "icon": "https://favicons.githubusercontent.com/newsletter.celtcast.com",
     "slug": "news-letter",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1986,
-    "timeDay": 1594,
-    "timeWeek": 2092,
-    "timeMonth": 1986,
-    "timeYear": 1986,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 1969,
+    "timeDay": 1571,
+    "timeWeek": 2024,
+    "timeMonth": 1969,
+    "timeYear": 1969,
     "dailyMinutesDown": {
-      "2022-03-10": 0
+      "2022-03-10": 4
     }
   },
   {
