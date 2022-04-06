@@ -1,7 +1,7 @@
 url: https://tychowerner.nl
-status: up
-code: 200
-responseTime: 281
-lastUpdated: 2022-04-05T23:12:29.248Z
+status: down
+code: 503
+responseTime: 84
+lastUpdated: 2022-04-06T19:36:20.985Z
 startTime: Mon Feb 07 2022 08:47:17 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
