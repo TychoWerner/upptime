@@ -47,19 +47,19 @@
     "url": "https://azuracast.tychowerner.nl",
     "icon": "https://favicons.githubusercontent.com/azuracast.tychowerner.nl",
     "slug": "azura-cast",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 655,
-    "timeDay": 506,
-    "timeWeek": 694,
-    "timeMonth": 698,
+    "timeDay": 594,
+    "timeWeek": 692,
+    "timeMonth": 697,
     "timeYear": 655,
     "dailyMinutesDown": {
-      "2022-06-06": 0
+      "2022-06-06": 13
     }
   },
   {
@@ -139,7 +139,7 @@
     "timeMonth": 81,
     "timeYear": 190,
     "dailyMinutesDown": {
-      "2022-06-06": 928,
+      "2022-06-06": 941,
       "2022-06-05": 1440,
       "2022-06-04": 1440,
       "2022-06-03": 1440,
