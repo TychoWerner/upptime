@@ -1,7 +1,7 @@
 url: https://celticast.com
-status: up
-code: 200
-responseTime: 488
-lastUpdated: 2022-06-28T23:11:44.090Z
+status: down
+code: 403
+responseTime: 101
+lastUpdated: 2022-06-29T05:53:10.781Z
 startTime: Mon Feb 07 2022 08:47:19 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
