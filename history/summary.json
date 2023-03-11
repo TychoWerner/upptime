@@ -172,7 +172,7 @@
     "timeMonth": 65,
     "timeYear": 97,
     "dailyMinutesDown": {
-      "2023-03-11": 826,
+      "2023-03-11": 835,
       "2023-03-10": 1440,
       "2023-03-09": 1440,
       "2023-03-08": 1440,
@@ -568,9 +568,9 @@
     "slug": "party-regelaar",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "98.55%",
-    "uptimeWeek": "99.21%",
-    "uptimeMonth": "99.82%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "99.93%",
     "time": 1485,
     "timeDay": 1700,
@@ -578,7 +578,7 @@
     "timeMonth": 1607,
     "timeYear": 1516,
     "dailyMinutesDown": {
-      "2023-03-11": 21,
+      "2023-03-11": 15,
       "2023-03-09": 16,
       "2023-03-06": 43,
       "2023-01-25": 94,
@@ -614,9 +614,9 @@
     "slug": "party-verhuur-ter-aar",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 2662,
     "timeDay": 2879,
@@ -624,7 +624,6 @@
     "timeMonth": 2984,
     "timeYear": 2681,
     "dailyMinutesDown": {
-      "2023-03-11": 5,
       "2023-01-25": 67,
       "2022-08-27": 175,
       "2022-06-16": 19
@@ -635,9 +634,9 @@
     "url": "https://partycentrumparola.nl/",
     "icon": "https://icons.duckduckgo.com/ip3/partycentrumparola.nl.ico",
     "slug": "party-centrum-parola",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -647,6 +646,7 @@
     "timeMonth": 3362,
     "timeYear": 2781,
     "dailyMinutesDown": {
+      "2023-03-11": 0,
       "2023-01-25": 72,
       "2022-08-27": 175
     }
