@@ -29,18 +29,20 @@
     "url": "https://fantasy-awards.com",
     "icon": "https://icons.duckduckgo.com/ip3/fantasy-awards.com.ico",
     "slug": "fantasy-awards",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 886,
     "timeDay": 752,
     "timeWeek": 689,
     "timeMonth": 697,
     "timeYear": 975,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-15": 2
+    }
   },
   {
     "name": "AzuraCast",
@@ -48,9 +50,9 @@
     "icon": "https://icons.duckduckgo.com/ip3/azuracast.tychowerner.nl.ico",
     "slug": "azura-cast",
     "status": "up",
-    "uptime": "97.06%",
+    "uptime": "97.07%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "38.21%",
+    "uptimeWeek": "43.28%",
     "uptimeMonth": "83.18%",
     "uptimeYear": "95.55%",
     "time": 745,
@@ -92,7 +94,7 @@
     "status": "up",
     "uptime": "99.06%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "38.14%",
+    "uptimeWeek": "43.21%",
     "uptimeMonth": "83.18%",
     "uptimeYear": "98.58%",
     "time": 401,
@@ -143,10 +145,10 @@
     "url": "https://gimmes.net",
     "icon": "https://icons.duckduckgo.com/ip3/gimmes.net.ico",
     "slug": "gimmes-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 659,
@@ -154,7 +156,9 @@
     "timeWeek": 564,
     "timeMonth": 560,
     "timeYear": 655,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-15": 1
+    }
   },
   {
     "name": "TychoWerner.nl",
@@ -162,7 +166,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tychowerner.nl.ico",
     "slug": "tycho-werner-nl",
     "status": "down",
-    "uptime": "10.56%",
+    "uptime": "10.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -173,7 +177,7 @@
     "timeMonth": 106,
     "timeYear": 76,
     "dailyMinutesDown": {
-      "2023-08-15": 51,
+      "2023-08-15": 562,
       "2023-08-14": 1440,
       "2023-08-13": 1440,
       "2023-08-12": 1440,
@@ -545,9 +549,9 @@
     "url": "https://tostibroeders.nl",
     "icon": "https://icons.duckduckgo.com/ip3/tostibroeders.nl.ico",
     "slug": "tosti-broeders-nl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -557,6 +561,7 @@
     "timeMonth": 1408,
     "timeYear": 1569,
     "dailyMinutesDown": {
+      "2023-08-15": 0,
       "2023-03-14": 16,
       "2023-01-25": 28
     }
