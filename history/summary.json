@@ -29,10 +29,10 @@
     "url": "https://fantasy-awards.com",
     "icon": "https://icons.duckduckgo.com/ip3/fantasy-awards.com.ico",
     "slug": "fantasy-awards",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.85%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 916,
@@ -41,6 +41,7 @@
     "timeMonth": 670,
     "timeYear": 1014,
     "dailyMinutesDown": {
+      "2023-09-26": 2,
       "2023-09-20": 15,
       "2023-08-15": 81
     }
@@ -128,7 +129,7 @@
     "uptimeYear": "99.78%",
     "time": 1914,
     "timeDay": 1271,
-    "timeWeek": 1859,
+    "timeWeek": 1853,
     "timeMonth": 1614,
     "timeYear": 1806,
     "dailyMinutesDown": {
@@ -147,10 +148,10 @@
     "url": "https://gimmes.net",
     "icon": "https://icons.duckduckgo.com/ip3/gimmes.net.ico",
     "slug": "gimmes-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 621,
@@ -159,6 +160,7 @@
     "timeMonth": 544,
     "timeYear": 652,
     "dailyMinutesDown": {
+      "2023-09-26": 1,
       "2023-08-15": 80
     }
   },
@@ -168,7 +170,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tychowerner.nl.ico",
     "slug": "tycho-werner-nl",
     "status": "down",
-    "uptime": "9.81%",
+    "uptime": "9.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -179,7 +181,7 @@
     "timeMonth": 80,
     "timeYear": 75,
     "dailyMinutesDown": {
-      "2023-09-26": 53,
+      "2023-09-26": 1092,
       "2023-09-25": 1440,
       "2023-09-24": 1440,
       "2023-09-23": 1440,
