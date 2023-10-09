@@ -1,7 +1,7 @@
 url: https://www.partyverhuurteraar.nl
-status: up
-code: 200
-responseTime: 3341
-lastUpdated: 2023-10-08T23:09:49.785Z
+status: down
+code: 503
+responseTime: 633
+lastUpdated: 2023-10-09T14:51:08.150Z
 startTime: 2022-02-07T08:47:24.000Z
 generator: Upptime <https://github.com/upptime/upptime>
