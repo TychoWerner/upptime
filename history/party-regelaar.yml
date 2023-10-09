@@ -1,7 +1,7 @@
 url: http://partyregelaar.nl
-status: up
-code: 200
-responseTime: 3721
-lastUpdated: 2023-10-08T23:09:42.651Z
+status: down
+code: 503
+responseTime: 839
+lastUpdated: 2023-10-09T14:51:00.399Z
 startTime: 2022-02-07T08:47:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
