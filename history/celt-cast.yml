@@ -1,7 +1,7 @@
 url: https://www.celtcast.com
-status: up
-code: 200
-responseTime: 1415
-lastUpdated: 2024-08-03T23:11:57.172Z
+status: down
+code: 503
+responseTime: 391
+lastUpdated: 2024-08-04T05:25:26.218Z
 startTime: 2022-02-07T08:36:53.000Z
 generator: Upptime <https://github.com/upptime/upptime>
